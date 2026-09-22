@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/primo-progetto/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/db-data/load.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/db-init/01_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/db-init/02_seed.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/conf/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/css/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Util/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/templates/.gitkeep" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Spadone046&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Spadone046/Quinta-IIS-B.-Castelli-2026-2027-.git&quot;,
+    &quot;accountId&quot;: &quot;1d12ac23-2fb8-4ff6-b7cc-e6d958862e0d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JMG0ddqqzUlXf2oPi5hqyaqXLJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.hello-world.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/75251261/PhpstormProjects/Quinta-IIS-B.-Castelli-2026-2027-/primo-progetto",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\75251261\PhpstormProjects\Quinta-IIS-B.-Castelli-2026-2027-\primo-progetto" />
+      <recent name="C:\Users\75251261\PhpstormProjects\Quinta-IIS-B.-Castelli-2026-2027-" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\75251261\PhpstormProjects\Quinta-IIS-B.-Castelli-2026-2027-\primo-progetto\www\public" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.10315.130" />
+        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.10315.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="" />
+      <created>1789463308664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789463308664</updated>
+      <workItem from="1789463314968" duration="550000" />
+      <workItem from="1789464260987" duration="162000" />
+      <workItem from="1789464865567" duration="94000" />
+      <workItem from="1789465240506" duration="456000" />
+      <workItem from="1789465762623" duration="660000" />
+      <workItem from="1789808590392" duration="2941000" />
+      <workItem from="1790066298066" duration="3819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
