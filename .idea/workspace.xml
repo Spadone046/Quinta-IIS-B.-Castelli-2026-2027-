@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/primo-progetto/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/db-data/load.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/db-init/01_schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/db-init/02_seed.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/docker-compose.override.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/docs/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/conf/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/css/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/img/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/js/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Controller/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Model/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/src/Util/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/templates/.gitkeep" afterDir="false" />
+    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="prima lezione">
+      <change afterPath="$PROJECT_DIR$/registra-evento/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/db-data/load.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/db-init/01_schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/db-init/02_seed.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/docker-compose.override.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/docs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/conf/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/public/css/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/public/img/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/public/js/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/public/registra-evento.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/src/Controller/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/src/Model/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/src/Util/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/registra-evento/www/templates/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="PHP File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -74,7 +77,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/75251261/PhpstormProjects/Quinta-IIS-B.-Castelli-2026-2027-/primo-progetto",
+    "last_opened_file_path": "C:/Users/75251261/PhpstormProjects/Quinta-IIS-B.-Castelli-2026-2027-",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm"
@@ -82,8 +85,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\75251261\PhpstormProjects\Quinta-IIS-B.-Castelli-2026-2027-\primo-progetto" />
       <recent name="C:\Users\75251261\PhpstormProjects\Quinta-IIS-B.-Castelli-2026-2027-" />
+      <recent name="C:\Users\75251261\PhpstormProjects\Quinta-IIS-B.-Castelli-2026-2027-\primo-progetto" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\75251261\PhpstormProjects\Quinta-IIS-B.-Castelli-2026-2027-\primo-progetto\www\public" />
@@ -110,8 +113,18 @@
       <workItem from="1789465240506" duration="456000" />
       <workItem from="1789465762623" duration="660000" />
       <workItem from="1789808590392" duration="2941000" />
-      <workItem from="1790066298066" duration="3819000" />
+      <workItem from="1790066298066" duration="4017000" />
+      <workItem from="1790413686964" duration="1498000" />
     </task>
+    <task id="LOCAL-00001" summary="prima lezione">
+      <option name="closed" value="true" />
+      <created>1790070242193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790070242193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,5 +140,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prima lezione" />
+    <option name="LAST_COMMIT_MESSAGE" value="prima lezione" />
   </component>
 </project>
