@@ -24,9 +24,9 @@
     <?php
         for($j = 0; $j <= 10; $j++){
             echo "<tr>";
-            echo "<th> . $j . </th>";
+            echo "<th>" . $j . "</th>";
             for ($i = 0; $i <= 10; ++$i) {
-                echo "<td> . $j*$i . </td>";
+                echo "<td>" . $j*$i . "</td>";
             }
             echo "</tr>";
         }
