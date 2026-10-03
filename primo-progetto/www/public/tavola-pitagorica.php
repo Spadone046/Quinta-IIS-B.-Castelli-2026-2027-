@@ -27,6 +27,9 @@
     ?>
 
 </table>
+<?php
+    echo "<p src='tabellina.php'>Vai alle tabelline</p>"
+?>
 </body>
 </html>
 
