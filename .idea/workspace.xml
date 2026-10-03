@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="Eliminazione cartelle superflue">
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tavola-pitagorica/www/public/tavola-pitagorica.html" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/tavola-pitagorica.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tavola-pitagorica/www/public/tavola-pitagorica.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/tavola-pitagorica.php" afterDir="false" />
+    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="Ritocco finale alla pagina php">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/tavola-pitagorica.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/tavola-pitagorica.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <workItem from="1790066298066" duration="4017000" />
       <workItem from="1790413686964" duration="2460000" />
       <workItem from="1790669360668" duration="5869000" />
-      <workItem from="1791018179250" duration="625000" />
+      <workItem from="1791018179250" duration="1036000" />
     </task>
     <task id="LOCAL-00001" summary="prima lezione">
       <option name="closed" value="true" />
@@ -141,7 +140,23 @@
       <option name="project" value="LOCAL" />
       <updated>1791018788402</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Eliminazione cartelle superflue">
+      <option name="closed" value="true" />
+      <created>1791018864678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791018864678</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ritocco finale alla pagina php">
+      <option name="closed" value="true" />
+      <created>1791019109721</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791019109721</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +178,7 @@
     <MESSAGE value="Primo progetto effettivo" />
     <MESSAGE value="Progetto tavola pitagorica" />
     <MESSAGE value="Eliminazione cartelle superflue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eliminazione cartelle superflue" />
+    <MESSAGE value="Ritocco finale alla pagina php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ritocco finale alla pagina php" />
   </component>
 </project>

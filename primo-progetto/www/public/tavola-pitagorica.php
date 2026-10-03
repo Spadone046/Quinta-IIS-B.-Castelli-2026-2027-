@@ -9,17 +9,11 @@
 <table border="2">
     <tr>
         <td>X</td>
-        <th>0</th>
-        <th>1</th>
-        <th>2</th>
-        <th>3</th>
-        <th>4</th>
-        <th>5</th>
-        <th>6</th>
-        <th>7</th>
-        <th>8</th>
-        <th>9</th>
-        <th>10</th>
+        <?php
+        for($j = 0; $j <= 10; $j++){
+            echo "<th>" . $j . "</th>";
+        }
+        ?>
     </tr>
     <?php
         for($j = 0; $j <= 10; $j++){
