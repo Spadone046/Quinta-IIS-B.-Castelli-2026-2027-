@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="Ritocco finale alla pagina php">
+    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="Inserimento di altri file">
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/corso-lingue.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/tavola-pitagorica.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/tavola-pitagorica.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/tabellina.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/tabellina.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,21 +48,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.hello-world.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/75251261/PhpstormProjects/Quinta-IIS-B.-Castelli-2026-2027-/primo-progetto/www/public",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.hello-world.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/75251261/PhpstormProjects/Quinta-IIS-B.-Castelli-2026-2027-/primo-progetto/www/public&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\75251261\PhpstormProjects\Quinta-IIS-B.-Castelli-2026-2027-\primo-progetto\www\public" />
@@ -98,7 +99,9 @@
       <workItem from="1790066298066" duration="4017000" />
       <workItem from="1790413686964" duration="2460000" />
       <workItem from="1790669360668" duration="5869000" />
-      <workItem from="1791018179250" duration="2324000" />
+      <workItem from="1791018179250" duration="2881000" />
+      <workItem from="1791021220693" duration="66000" />
+      <workItem from="1791274254145" duration="5226000" />
     </task>
     <task id="LOCAL-00001" summary="prima lezione">
       <option name="closed" value="true" />
@@ -164,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791019237695</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Inserimento di altri file">
+      <option name="closed" value="true" />
+      <created>1791020716350</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791020716350</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +198,7 @@
     <MESSAGE value="Progetto tavola pitagorica" />
     <MESSAGE value="Eliminazione cartelle superflue" />
     <MESSAGE value="Ritocco finale alla pagina php" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ritocco finale alla pagina php" />
+    <MESSAGE value="Inserimento di altri file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserimento di altri file" />
   </component>
 </project>
