@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="Inserimento di altri file">
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/corso-lingue.php" afterDir="false" />
+    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="Inizializzazione esercizio dei corsi linguistici">
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/tabellina.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/tabellina.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,8 @@
       <workItem from="1790669360668" duration="5869000" />
       <workItem from="1791018179250" duration="2881000" />
       <workItem from="1791021220693" duration="66000" />
-      <workItem from="1791274254145" duration="5226000" />
+      <workItem from="1791274254145" duration="5449000" />
+      <workItem from="1791623087904" duration="1857000" />
     </task>
     <task id="LOCAL-00001" summary="prima lezione">
       <option name="closed" value="true" />
@@ -175,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791020716350</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Inizializzazione esercizio dei corsi linguistici">
+      <option name="closed" value="true" />
+      <created>1791280037847</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791280037847</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +207,7 @@
     <MESSAGE value="Eliminazione cartelle superflue" />
     <MESSAGE value="Ritocco finale alla pagina php" />
     <MESSAGE value="Inserimento di altri file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserimento di altri file" />
+    <MESSAGE value="Inizializzazione esercizio dei corsi linguistici" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inizializzazione esercizio dei corsi linguistici" />
   </component>
 </project>
