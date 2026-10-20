@@ -15,7 +15,9 @@
     }
     echo "</table>";
     echo "</h1>";
-    echo "<p href='tavola-pitagorica.php'>Torna alla tavola periodica</p>"
+    echo '<form action="tavola-pitagorica.php" method="post">';
+    echo "<button type='submit'>Torna alla tavola pitagorica</button>";
+    echo '</form>';
     ?>
 </body>
 </html>

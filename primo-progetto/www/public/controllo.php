@@ -16,7 +16,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "<button type='submit'>Ritorna al login</button>";
         echo '</form>';
     }else{
-
+        header("Location: area_riservata.php");
+        exit;
     }
 }
 ?>

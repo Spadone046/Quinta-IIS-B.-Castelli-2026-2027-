@@ -28,7 +28,9 @@
 
 </table>
 <?php
-    echo "<p src='tabellina.php'>Vai alle tabelline</p>"
+echo '<form action="tabellina.php?valore=1" method="post">';
+echo "<button type='submit'>Vai alle tabelline</button>";
+echo '</form>';
 ?>
 </body>
 </html>

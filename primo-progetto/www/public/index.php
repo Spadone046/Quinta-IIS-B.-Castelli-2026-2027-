@@ -18,8 +18,23 @@ $app->addErrorMiddleware(APP_ENV === 'development', true, true);
 // --- Route di esempio ---
 
 $app->get('/', function (Request $request, Response $response) {
-    $response->getBody()->write('Hello world');
+    $response->getBody()->write('Lista pagine create');
     return $response;
 });
 
 $app->run();
+
+echo '<br>';
+echo '<br>';
+echo '<form action="hello-world.php" method="post">';
+echo "<button type='submit'>Hello World</button>";
+echo '</form>';
+echo '<form action="tavola-pitagorica.php" method="post">';
+echo "<button type='submit'>Tavola Pitagorica</button>";
+echo '</form>';
+echo '<form action="corso-lingue.php" method="post">';
+echo "<button type='submit'>Corso Lingue</button>";
+echo '</form>';
+echo '<form action="login.php" method="post">';
+echo "<button type='submit'>Login</button>";
+echo '</form>';
