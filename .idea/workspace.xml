@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="correzione esercizio password">
+    <list default="true" id="64d9449f-1e2b-48e3-910f-8684032922a3" name="Changes" comment="Inizializzazione della pagina index.php e correzione delle pagine tavola-pitagorica.php e tabellina.php">
+      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/prenotaPizza.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/controllo.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/controllo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/tabellina.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/tabellina.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo-progetto/www/public/tavola-pitagorica.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo-progetto/www/public/tavola-pitagorica.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +106,8 @@
       <workItem from="1791879030742" duration="5909000" />
       <workItem from="1792227900346" duration="2783000" />
       <workItem from="1792230853404" duration="32000" />
-      <workItem from="1792483906868" duration="2223000" />
+      <workItem from="1792483906868" duration="4858000" />
+      <workItem from="1792832801193" duration="2482000" />
     </task>
     <task id="LOCAL-00001" summary="prima lezione">
       <option name="closed" value="true" />
@@ -206,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791883912961</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Inizializzazione della pagina index.php e correzione delle pagine tavola-pitagorica.php e tabellina.php">
+      <option name="closed" value="true" />
+      <created>1792486255604</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1792486255605</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +240,7 @@
     <MESSAGE value="Inizializzazione esercizio dei corsi linguistici" />
     <MESSAGE value="Inizializzazione esercizio password" />
     <MESSAGE value="correzione esercizio password" />
-    <option name="LAST_COMMIT_MESSAGE" value="correzione esercizio password" />
+    <MESSAGE value="Inizializzazione della pagina index.php e correzione delle pagine tavola-pitagorica.php e tabellina.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inizializzazione della pagina index.php e correzione delle pagine tavola-pitagorica.php e tabellina.php" />
   </component>
 </project>

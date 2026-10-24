@@ -38,3 +38,6 @@ echo '</form>';
 echo '<form action="login.php" method="post">';
 echo "<button type='submit'>Login</button>";
 echo '</form>';
+echo '<form action="prenotaPizza.php" method="post">';
+echo "<button type='submit'>Prenota Pizza</button>";
+echo '</form>';
